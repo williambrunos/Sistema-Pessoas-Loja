@@ -3,11 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-/*
-    Aula 2.3 - Curso de Fundamentos de Desenvolvimento com linguagem C#
-    Aluno: William Bruno Sales de Paula Lima
-    Professor: Marcondes Alexandre
- */
+
 namespace Aula_23_WilliamBrunoSalesDePaulaLima
 {
     //A classe Program possui objetos instanciados das classes PessoaFisica e PessoaJuridica:
